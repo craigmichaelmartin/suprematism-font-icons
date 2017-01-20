@@ -1030,7 +1030,7 @@
     "showQuickUse2": true,
     "showSVGs": true,
     "fontPref": {
-      "prefix": "nbcon--",
+      "prefix": "u-supre-icon--",
       "metadata": {
         "fontFamily": "Audri-alpha",
         "majorVersion": 1,
@@ -1049,7 +1049,7 @@
       "cssVarsFormat": "scss",
       "showSelector": true,
       "selector": "class",
-      "classSelector": ".nbcon"
+      "classSelector": ".u-supre-icon"
     },
     "imagePref": {
       "prefix": "icon-",
@@ -1063,8 +1063,6 @@
     "showCodes": true,
     "gridSize": 16,
     "showGrid": true,
-    "quickUsageToken": {
-      "AudriAlphabet": false
-    }
+    "quickUsageToken": {}
   }
 }
