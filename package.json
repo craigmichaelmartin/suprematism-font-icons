@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "deploy": "git co gh-pages; mv demo.html index.html; git commit -m 'deploy'; git push origin gh-pages;"
+    "deploy": "git co gh-pages; mv demo.html index.html; git add .; git commit -m 'deploy'; git push origin gh-pages; git co master;"
   }
 }
