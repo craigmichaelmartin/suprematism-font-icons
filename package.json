@@ -1,0 +1,8 @@
+{
+  "name": "suprematism-font-icons",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "git co gh-pages; mv demo.html index.html; git commit -m 'deploy'; git push origin gh-pages;"
+  }
+}

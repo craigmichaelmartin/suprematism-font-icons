@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'Audri-alpha';
+  src:
+    url('fonts/Audri-alpha.woff2?9idcbc') format('woff2'),
+    url('fonts/Audri-alpha.ttf?9idcbc') format('truetype'),
+    url('fonts/Audri-alpha.woff?9idcbc') format('woff'),
+    url('fonts/Audri-alpha.svg?9idcbc#Audri-alpha') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.nbcon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Audri-alpha' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nbcon--add-create:before {
+  content: "\e904";
+}
+.nbcon--library:before {
+  content: "\e90f";
+}
+.nbcon--user-menu-icon:before {
+  content: "\e910";
+}
+.nbcon--arrow-down-stroke:before {
+  content: "\e900";
+}
+.nbcon--arrow-right-stroke:before {
+  content: "\e901";
+}
+.nbcon--arrow-right-filled:before {
+  content: "\e902";
+}
+.nbcon--arrow-down-filled:before {
+  content: "\e903";
+}
+.nbcon--more-menu-dots-only:before {
+  content: "\e905";
+}
+.nbcon--more-menu-stoke:before {
+  content: "\e906";
+}
+.nbcon--more-menu-fill:before {
+  content: "\e907";
+}
+.nbcon--search:before {
+  content: "\e908";
+}
+.nbcon--refresh-clear:before {
+  content: "\e909";
+}
+.nbcon--filter:before {
+  content: "\e90a";
+}
+.nbcon--audience:before {
+  content: "\e90b";
+}
+.nbcon--dollar-sign:before {
+  content: "\e90c";
+}
+.nbcon--number-sign:before {
+  content: "\e90d";
+}
+.nbcon--delete-x:before {
+  content: "\e90e";
+}
+.nbcon--Auto:before {
+  content: "\e911";
+}
+.nbcon--CPG-food:before {
+  content: "\e912";
+}
+.nbcon--CPG-health-beauty:before {
+  content: "\e913";
+}
+.nbcon--CPG-home:before {
+  content: "\e914";
+}
+.nbcon--Consumer-electronics:before {
+  content: "\e915";
+}
+.nbcon--ecommerce:before {
+  content: "\e916";
+}
+.nbcon--entertainment:before {
+  content: "\e917";
+}
+.nbcon--finance:before {
+  content: "\e918";
+}
+.nbcon--insurance:before {
+  content: "\e919";
+}
+.nbcon--pharma:before {
+  content: "\e91a";
+}
+.nbcon--QSR:before {
+  content: "\e91b";
+}
+.nbcon--retail:before {
+  content: "\e91c";
+}
+.nbcon--telco:before {
+  content: "\e91d";
+}
+.nbcon--travel:before {
+  content: "\e91e";
+}
+.nbcon--other-category:before {
+  content: "\e91f";
+}
+
