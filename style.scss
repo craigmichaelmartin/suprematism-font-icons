@@ -3,10 +3,10 @@
 @font-face {
   font-family: 'Audri-alpha';
   src:
-    url('#{$icomoon-font-path}/Audri-alpha.woff2?clbrbj') format('woff2'),
-    url('#{$icomoon-font-path}/Audri-alpha.ttf?clbrbj') format('truetype'),
-    url('#{$icomoon-font-path}/Audri-alpha.woff?clbrbj') format('woff'),
-    url('#{$icomoon-font-path}/Audri-alpha.svg?clbrbj#Audri-alpha') format('svg');
+    url('#{$icomoon-font-path}/Audri-alpha.woff2?gfmmai') format('woff2'),
+    url('#{$icomoon-font-path}/Audri-alpha.ttf?gfmmai') format('truetype'),
+    url('#{$icomoon-font-path}/Audri-alpha.woff?gfmmai') format('woff'),
+    url('#{$icomoon-font-path}/Audri-alpha.svg?gfmmai#Audri-alpha') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.u-supre-icon--checked {
+  &:before {
+    content: $u-supre-icon--checked;
+  }
+}
+.u-supre-icon--partial-check {
+  &:before {
+    content: $u-supre-icon--partial-check;
+  }
+}
+.u-supre-icon--unchecked {
+  &:before {
+    content: $u-supre-icon--unchecked;
+  }
+}
 .u-supre-icon--add-create {
   &:before {
     content: $u-supre-icon--add-create;
@@ -79,6 +94,21 @@
 .u-supre-icon--search {
   &:before {
     content: $u-supre-icon--search;
+  }
+}
+.u-supre-icon--edit {
+  &:before {
+    content: $u-supre-icon--edit;
+  }
+}
+.u-supre-icon--snapshot {
+  &:before {
+    content: $u-supre-icon--snapshot;
+  }
+}
+.u-supre-icon--export {
+  &:before {
+    content: $u-supre-icon--export;
   }
 }
 .u-supre-icon--refresh-clear {
