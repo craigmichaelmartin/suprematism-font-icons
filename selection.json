@@ -20,7 +20,7 @@
         {}
       ],
       "properties": {
-        "order": 72,
+        "order": 103,
         "id": 40,
         "name": "checked",
         "prevSize": 32,
@@ -52,7 +52,7 @@
         {}
       ],
       "properties": {
-        "order": 71,
+        "order": 104,
         "id": 39,
         "name": "partial-check",
         "prevSize": 32,
@@ -81,7 +81,7 @@
         {}
       ],
       "properties": {
-        "order": 70,
+        "order": 105,
         "id": 38,
         "name": "unchecked",
         "prevSize": 32,
@@ -110,7 +110,7 @@
         {}
       ],
       "properties": {
-        "order": 27,
+        "order": 106,
         "id": 3,
         "name": "add-create",
         "prevSize": 32,
@@ -154,7 +154,7 @@
         {}
       ],
       "properties": {
-        "order": 42,
+        "order": 107,
         "id": 17,
         "name": "library",
         "prevSize": 32,
@@ -186,7 +186,7 @@
         {}
       ],
       "properties": {
-        "order": 40,
+        "order": 108,
         "id": 16,
         "name": "user-menu-icon",
         "prevSize": 32,
@@ -218,7 +218,7 @@
         {}
       ],
       "properties": {
-        "order": 25,
+        "order": 109,
         "id": 5,
         "name": "arrow-down-stroke",
         "prevSize": 32,
@@ -250,7 +250,7 @@
         {}
       ],
       "properties": {
-        "order": 24,
+        "order": 110,
         "id": 4,
         "name": "arrow-right-stroke",
         "prevSize": 32,
@@ -279,7 +279,7 @@
         {}
       ],
       "properties": {
-        "order": 21,
+        "order": 111,
         "id": 1,
         "name": "arrow-right-filled",
         "prevSize": 32,
@@ -308,7 +308,7 @@
         {}
       ],
       "properties": {
-        "order": 26,
+        "order": 112,
         "id": 0,
         "name": "arrow-down-filled",
         "prevSize": 32,
@@ -343,7 +343,7 @@
         {}
       ],
       "properties": {
-        "order": 29,
+        "order": 113,
         "id": 6,
         "name": "more-menu-dots-only",
         "prevSize": 32,
@@ -381,7 +381,7 @@
         {}
       ],
       "properties": {
-        "order": 28,
+        "order": 114,
         "id": 2,
         "name": "more-menu-stoke",
         "prevSize": 32,
@@ -410,7 +410,7 @@
         {}
       ],
       "properties": {
-        "order": 30,
+        "order": 115,
         "id": 7,
         "name": "more-menu-fill",
         "prevSize": 32,
@@ -439,7 +439,7 @@
         {}
       ],
       "properties": {
-        "order": 31,
+        "order": 116,
         "id": 8,
         "name": "search",
         "prevSize": 32,
@@ -468,7 +468,7 @@
         {}
       ],
       "properties": {
-        "order": 68,
+        "order": 117,
         "id": 36,
         "name": "edit",
         "prevSize": 32,
@@ -500,7 +500,7 @@
         {}
       ],
       "properties": {
-        "order": 69,
+        "order": 118,
         "id": 37,
         "name": "snapshot",
         "prevSize": 32,
@@ -529,7 +529,7 @@
         {}
       ],
       "properties": {
-        "order": 67,
+        "order": 119,
         "id": 35,
         "name": "export",
         "prevSize": 32,
@@ -561,7 +561,7 @@
         {}
       ],
       "properties": {
-        "order": 32,
+        "order": 120,
         "id": 9,
         "name": "refresh-clear",
         "prevSize": 32,
@@ -590,7 +590,7 @@
         {}
       ],
       "properties": {
-        "order": 33,
+        "order": 121,
         "id": 10,
         "name": "filter",
         "prevSize": 32,
@@ -619,7 +619,7 @@
         {}
       ],
       "properties": {
-        "order": 34,
+        "order": 122,
         "id": 11,
         "name": "audience",
         "prevSize": 32,
@@ -648,7 +648,7 @@
         {}
       ],
       "properties": {
-        "order": 35,
+        "order": 123,
         "id": 14,
         "name": "dollar-sign",
         "prevSize": 32,
@@ -677,7 +677,7 @@
         {}
       ],
       "properties": {
-        "order": 37,
+        "order": 124,
         "id": 13,
         "name": "number-sign",
         "prevSize": 32,
@@ -706,7 +706,7 @@
         {}
       ],
       "properties": {
-        "order": 36,
+        "order": 125,
         "id": 12,
         "name": "delete-x",
         "prevSize": 32,
@@ -735,7 +735,7 @@
         {}
       ],
       "properties": {
-        "order": 43,
+        "order": 102,
         "id": 18,
         "name": "Auto",
         "prevSize": 32,
@@ -776,7 +776,7 @@
         {}
       ],
       "properties": {
-        "order": 49,
+        "order": 101,
         "id": 19,
         "name": "CPG-food",
         "prevSize": 32,
@@ -805,7 +805,7 @@
         {}
       ],
       "properties": {
-        "order": 51,
+        "order": 100,
         "id": 22,
         "name": "CPG-health-beauty",
         "prevSize": 32,
@@ -840,7 +840,7 @@
         {}
       ],
       "properties": {
-        "order": 54,
+        "order": 99,
         "id": 23,
         "name": "CPG-home",
         "prevSize": 32,
@@ -869,7 +869,7 @@
         {}
       ],
       "properties": {
-        "order": 56,
+        "order": 98,
         "id": 25,
         "name": "Consumer-electronics",
         "prevSize": 32,
@@ -898,7 +898,7 @@
         {}
       ],
       "properties": {
-        "order": 55,
+        "order": 97,
         "id": 24,
         "name": "ecommerce",
         "prevSize": 32,
@@ -936,7 +936,7 @@
         {}
       ],
       "properties": {
-        "order": 65,
+        "order": 96,
         "id": 34,
         "name": "entertainment",
         "prevSize": 32,
@@ -974,7 +974,7 @@
         {}
       ],
       "properties": {
-        "order": 64,
+        "order": 95,
         "id": 33,
         "name": "finance",
         "prevSize": 32,
@@ -1003,7 +1003,7 @@
         {}
       ],
       "properties": {
-        "order": 63,
+        "order": 94,
         "id": 32,
         "name": "insurance",
         "prevSize": 32,
@@ -1035,7 +1035,7 @@
         {}
       ],
       "properties": {
-        "order": 61,
+        "order": 93,
         "id": 30,
         "name": "pharma",
         "prevSize": 32,
@@ -1064,7 +1064,7 @@
         {}
       ],
       "properties": {
-        "order": 66,
+        "order": 92,
         "id": 29,
         "name": "QSR",
         "prevSize": 32,
@@ -1093,7 +1093,7 @@
         {}
       ],
       "properties": {
-        "order": 59,
+        "order": 91,
         "id": 28,
         "name": "retail",
         "prevSize": 32,
@@ -1122,7 +1122,7 @@
         {}
       ],
       "properties": {
-        "order": 58,
+        "order": 90,
         "id": 27,
         "name": "telco",
         "prevSize": 32,
@@ -1151,7 +1151,7 @@
         {}
       ],
       "properties": {
-        "order": 57,
+        "order": 89,
         "id": 26,
         "name": "travel",
         "prevSize": 32,
@@ -1189,7 +1189,7 @@
         {}
       ],
       "properties": {
-        "order": 62,
+        "order": 88,
         "id": 31,
         "name": "other-category",
         "prevSize": 32,
@@ -1218,7 +1218,7 @@
         {}
       ],
       "properties": {
-        "order": 73,
+        "order": 87,
         "id": 41,
         "name": "trash",
         "prevSize": 32,
@@ -1227,6 +1227,70 @@
       "setIdx": 2,
       "setId": 2,
       "iconIdx": 38
+    },
+    {
+      "icon": {
+        "paths": [
+          "M288 659.2v-19.2h441.6v19.2l-217.601 358.4z",
+          "M447.999-6.4h128v825.601h-128v-825.601z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "sort-down"
+        ]
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 127,
+        "id": 43,
+        "prevSize": 32,
+        "code": 59688,
+        "name": "sort-down"
+      },
+      "setIdx": 2,
+      "setId": 2,
+      "iconIdx": 39
+    },
+    {
+      "icon": {
+        "paths": [
+          "M736 364.8v19.2h-441.6v-19.2l217.601-358.4z",
+          "M576.001 1030.4h-128v-825.601h128v825.601z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "sort-up"
+        ]
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 126,
+        "id": 42,
+        "name": "sort-up",
+        "prevSize": 32,
+        "code": 59687
+      },
+      "setIdx": 2,
+      "setId": 2,
+      "iconIdx": 40
     }
   ],
   "height": 1024,

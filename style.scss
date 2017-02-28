@@ -3,10 +3,10 @@
 @font-face {
   font-family: 'Audri-alpha';
   src:
-    url('#{$icomoon-font-path}/Audri-alpha.woff2?x25116') format('woff2'),
-    url('#{$icomoon-font-path}/Audri-alpha.ttf?x25116') format('truetype'),
-    url('#{$icomoon-font-path}/Audri-alpha.woff?x25116') format('woff'),
-    url('#{$icomoon-font-path}/Audri-alpha.svg?x25116#Audri-alpha') format('svg');
+    url('#{$icomoon-font-path}/Audri-alpha.woff2?m86406') format('woff2'),
+    url('#{$icomoon-font-path}/Audri-alpha.ttf?m86406') format('truetype'),
+    url('#{$icomoon-font-path}/Audri-alpha.woff?m86406') format('woff'),
+    url('#{$icomoon-font-path}/Audri-alpha.svg?m86406#Audri-alpha') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -219,6 +219,16 @@
 .u-supre-icon--trash {
   &:before {
     content: $u-supre-icon--trash;
+  }
+}
+.u-supre-icon--sort-down {
+  &:before {
+    content: $u-supre-icon--sort-down;
+  }
+}
+.u-supre-icon--sort-up {
+  &:before {
+    content: $u-supre-icon--sort-up;
   }
 }
 
