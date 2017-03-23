@@ -3,10 +3,10 @@
 @font-face {
   font-family: 'Audri-alpha';
   src:
-    url('#{$icomoon-font-path}/Audri-alpha.woff2?m86406') format('woff2'),
-    url('#{$icomoon-font-path}/Audri-alpha.ttf?m86406') format('truetype'),
-    url('#{$icomoon-font-path}/Audri-alpha.woff?m86406') format('woff'),
-    url('#{$icomoon-font-path}/Audri-alpha.svg?m86406#Audri-alpha') format('svg');
+    url('#{$icomoon-font-path}/Audri-alpha.woff2?p1cvxp') format('woff2'),
+    url('#{$icomoon-font-path}/Audri-alpha.ttf?p1cvxp') format('truetype'),
+    url('#{$icomoon-font-path}/Audri-alpha.woff?p1cvxp') format('woff'),
+    url('#{$icomoon-font-path}/Audri-alpha.svg?p1cvxp#Audri-alpha') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -56,14 +56,14 @@
     content: $u-supre-icon--user-menu-icon;
   }
 }
-.u-supre-icon--arrow-down-stroke {
-  &:before {
-    content: $u-supre-icon--arrow-down-stroke;
-  }
-}
 .u-supre-icon--arrow-right-stroke {
   &:before {
     content: $u-supre-icon--arrow-right-stroke;
+  }
+}
+.u-supre-icon--arrow-down-stroke {
+  &:before {
+    content: $u-supre-icon--arrow-down-stroke;
   }
 }
 .u-supre-icon--arrow-right-filled {
@@ -229,6 +229,16 @@
 .u-supre-icon--sort-up {
   &:before {
     content: $u-supre-icon--sort-up;
+  }
+}
+.u-supre-icon--logout {
+  &:before {
+    content: $u-supre-icon--logout;
+  }
+}
+.u-supre-icon--settings {
+  &:before {
+    content: $u-supre-icon--settings;
   }
 }
 
