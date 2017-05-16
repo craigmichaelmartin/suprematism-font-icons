@@ -3,10 +3,10 @@
 @font-face {
   font-family: 'Audri-alpha';
   src:
-    url('#{$icomoon-font-path}/Audri-alpha.woff2?vg46s7') format('woff2'),
-    url('#{$icomoon-font-path}/Audri-alpha.ttf?vg46s7') format('truetype'),
-    url('#{$icomoon-font-path}/Audri-alpha.woff?vg46s7') format('woff'),
-    url('#{$icomoon-font-path}/Audri-alpha.svg?vg46s7#Audri-alpha') format('svg');
+    url('#{$icomoon-font-path}/Audri-alpha.woff2?5w8shw') format('woff2'),
+    url('#{$icomoon-font-path}/Audri-alpha.ttf?5w8shw') format('truetype'),
+    url('#{$icomoon-font-path}/Audri-alpha.woff?5w8shw') format('woff'),
+    url('#{$icomoon-font-path}/Audri-alpha.svg?5w8shw#Audri-alpha') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -119,6 +119,11 @@
 .u-supre-icon--filter {
   &:before {
     content: $u-supre-icon--filter;
+  }
+}
+.u-supre-icon--rem-filter {
+  &:before {
+    content: $u-supre-icon--rem-filter;
   }
 }
 .u-supre-icon--audience {
@@ -259,6 +264,11 @@
 .u-supre-icon--venn {
   &:before {
     content: $u-supre-icon--venn;
+  }
+}
+.u-supre-icon--hide {
+  &:before {
+    content: $u-supre-icon--hide;
   }
 }
 
