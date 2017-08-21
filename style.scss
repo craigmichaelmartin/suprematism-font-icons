@@ -3,10 +3,10 @@
 @font-face {
   font-family: 'Audri-alpha';
   src:
-    url('#{$icomoon-font-path}/Audri-alpha.woff2?ksia6b') format('woff2'),
-    url('#{$icomoon-font-path}/Audri-alpha.ttf?ksia6b') format('truetype'),
-    url('#{$icomoon-font-path}/Audri-alpha.woff?ksia6b') format('woff'),
-    url('#{$icomoon-font-path}/Audri-alpha.svg?ksia6b#Audri-alpha') format('svg');
+    url('#{$icomoon-font-path}/Audri-alpha.woff2?by2c6m') format('woff2'),
+    url('#{$icomoon-font-path}/Audri-alpha.ttf?by2c6m') format('truetype'),
+    url('#{$icomoon-font-path}/Audri-alpha.woff?by2c6m') format('woff'),
+    url('#{$icomoon-font-path}/Audri-alpha.svg?by2c6m#Audri-alpha') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,44 +26,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.u-supre-icon--checked {
+.u-supre-icon--arrow-down-stroke {
   &:before {
-    content: $u-supre-icon--checked;
-  }
-}
-.u-supre-icon--partial-check {
-  &:before {
-    content: $u-supre-icon--partial-check;
-  }
-}
-.u-supre-icon--unchecked {
-  &:before {
-    content: $u-supre-icon--unchecked;
-  }
-}
-.u-supre-icon--add-create {
-  &:before {
-    content: $u-supre-icon--add-create;
-  }
-}
-.u-supre-icon--library {
-  &:before {
-    content: $u-supre-icon--library;
-  }
-}
-.u-supre-icon--user-menu-icon {
-  &:before {
-    content: $u-supre-icon--user-menu-icon;
+    content: $u-supre-icon--arrow-down-stroke;
   }
 }
 .u-supre-icon--arrow-right-stroke {
   &:before {
     content: $u-supre-icon--arrow-right-stroke;
-  }
-}
-.u-supre-icon--arrow-down-stroke {
-  &:before {
-    content: $u-supre-icon--arrow-down-stroke;
   }
 }
 .u-supre-icon--arrow-right-filled {
@@ -74,6 +44,11 @@
 .u-supre-icon--arrow-down-filled {
   &:before {
     content: $u-supre-icon--arrow-down-filled;
+  }
+}
+.u-supre-icon--add-create {
+  &:before {
+    content: $u-supre-icon--add-create;
   }
 }
 .u-supre-icon--more-menu-dots-only {
@@ -96,21 +71,6 @@
     content: $u-supre-icon--search;
   }
 }
-.u-supre-icon--edit {
-  &:before {
-    content: $u-supre-icon--edit;
-  }
-}
-.u-supre-icon--snapshot {
-  &:before {
-    content: $u-supre-icon--snapshot;
-  }
-}
-.u-supre-icon--export {
-  &:before {
-    content: $u-supre-icon--export;
-  }
-}
 .u-supre-icon--refresh-clear {
   &:before {
     content: $u-supre-icon--refresh-clear;
@@ -119,11 +79,6 @@
 .u-supre-icon--filter {
   &:before {
     content: $u-supre-icon--filter;
-  }
-}
-.u-supre-icon--rem-filter {
-  &:before {
-    content: $u-supre-icon--rem-filter;
   }
 }
 .u-supre-icon--audience {
@@ -144,6 +99,16 @@
 .u-supre-icon--delete-x {
   &:before {
     content: $u-supre-icon--delete-x;
+  }
+}
+.u-supre-icon--library {
+  &:before {
+    content: $u-supre-icon--library;
+  }
+}
+.u-supre-icon--user-menu-icon {
+  &:before {
+    content: $u-supre-icon--user-menu-icon;
   }
 }
 .u-supre-icon--Auto {
@@ -221,19 +186,49 @@
     content: $u-supre-icon--other-category;
   }
 }
+.u-supre-icon--checked {
+  &:before {
+    content: $u-supre-icon--checked;
+  }
+}
+.u-supre-icon--partial-check {
+  &:before {
+    content: $u-supre-icon--partial-check;
+  }
+}
+.u-supre-icon--unchecked {
+  &:before {
+    content: $u-supre-icon--unchecked;
+  }
+}
+.u-supre-icon--edit {
+  &:before {
+    content: $u-supre-icon--edit;
+  }
+}
+.u-supre-icon--snapshot {
+  &:before {
+    content: $u-supre-icon--snapshot;
+  }
+}
+.u-supre-icon--export {
+  &:before {
+    content: $u-supre-icon--export;
+  }
+}
 .u-supre-icon--trash {
   &:before {
     content: $u-supre-icon--trash;
   }
 }
-.u-supre-icon--sort-down {
-  &:before {
-    content: $u-supre-icon--sort-down;
-  }
-}
 .u-supre-icon--sort-up {
   &:before {
     content: $u-supre-icon--sort-up;
+  }
+}
+.u-supre-icon--sort-down {
+  &:before {
+    content: $u-supre-icon--sort-down;
   }
 }
 .u-supre-icon--logout {
@@ -264,6 +259,11 @@
 .u-supre-icon--venn {
   &:before {
     content: $u-supre-icon--venn;
+  }
+}
+.u-supre-icon--rem-filter {
+  &:before {
+    content: $u-supre-icon--rem-filter;
   }
 }
 .u-supre-icon--hide {
@@ -309,6 +309,16 @@
 .u-supre-icon--calendar {
   &:before {
     content: $u-supre-icon--calendar;
+  }
+}
+.u-supre-icon--drag-select {
+  &:before {
+    content: $u-supre-icon--drag-select;
+  }
+}
+.u-supre-icon--drag-move {
+  &:before {
+    content: $u-supre-icon--drag-move;
   }
 }
 
