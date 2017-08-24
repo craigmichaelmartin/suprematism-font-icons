@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Audri-alpha';
   src:
-    url('fonts/Audri-alpha.woff2?by2c6m') format('woff2'),
-    url('fonts/Audri-alpha.ttf?by2c6m') format('truetype'),
-    url('fonts/Audri-alpha.woff?by2c6m') format('woff'),
-    url('fonts/Audri-alpha.svg?by2c6m#Audri-alpha') format('svg');
+    url('fonts/Audri-alpha.woff2?liwhjw') format('woff2'),
+    url('fonts/Audri-alpha.ttf?liwhjw') format('truetype'),
+    url('fonts/Audri-alpha.woff?liwhjw') format('woff'),
+    url('fonts/Audri-alpha.svg?liwhjw#Audri-alpha') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -173,7 +173,6 @@
 }
 .u-supre-icon--exported:before {
   content: "\e931";
-  color: #000;
 }
 .u-supre-icon--fail:before {
   content: "\e932";
@@ -196,9 +195,21 @@
 .u-supre-icon--calendar:before {
   content: "\e938";
 }
+.u-supre-icon--drag-move:before {
+  content: "\e93a";
+}
 .u-supre-icon--drag-select:before {
   content: "\e939";
 }
-.u-supre-icon--drag-move:before {
-  content: "\e93a";
+.u-supre-icon--link:before {
+  content: "\e93b";
+}
+.u-supre-icon--chart:before {
+  content: "\e93c";
+}
+.u-supre-icon--benchmark:before {
+  content: "\e93d";
+}
+.u-supre-icon--document:before {
+  content: "\e93e";
 }
